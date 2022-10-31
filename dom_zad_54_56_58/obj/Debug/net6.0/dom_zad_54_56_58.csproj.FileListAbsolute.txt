@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\c#_seminar08\dom_zad_54_56_58\bin\Debug\net6.0\dom_zad_54_56_58.exe
+C:\Users\Пользователь\Desktop\c#_seminar08\dom_zad_54_56_58\bin\Debug\net6.0\dom_zad_54_56_58.deps.json
+C:\Users\Пользователь\Desktop\c#_seminar08\dom_zad_54_56_58\bin\Debug\net6.0\dom_zad_54_56_58.runtimeconfig.json
+C:\Users\Пользователь\Desktop\c#_seminar08\dom_zad_54_56_58\bin\Debug\net6.0\dom_zad_54_56_58.dll
+C:\Users\Пользователь\Desktop\c#_seminar08\dom_zad_54_56_58\bin\Debug\net6.0\dom_zad_54_56_58.pdb
+C:\Users\Пользователь\Desktop\c#_seminar08\dom_zad_54_56_58\obj\Debug\net6.0\dom_zad_54_56_58.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\c#_seminar08\dom_zad_54_56_58\obj\Debug\net6.0\dom_zad_54_56_58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\c#_seminar08\dom_zad_54_56_58\obj\Debug\net6.0\dom_zad_54_56_58.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\c#_seminar08\dom_zad_54_56_58\obj\Debug\net6.0\dom_zad_54_56_58.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\c#_seminar08\dom_zad_54_56_58\obj\Debug\net6.0\dom_zad_54_56_58.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\c#_seminar08\dom_zad_54_56_58\obj\Debug\net6.0\dom_zad_54_56_58.dll
+C:\Users\Пользователь\Desktop\c#_seminar08\dom_zad_54_56_58\obj\Debug\net6.0\refint\dom_zad_54_56_58.dll
+C:\Users\Пользователь\Desktop\c#_seminar08\dom_zad_54_56_58\obj\Debug\net6.0\dom_zad_54_56_58.pdb
+C:\Users\Пользователь\Desktop\c#_seminar08\dom_zad_54_56_58\obj\Debug\net6.0\dom_zad_54_56_58.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\c#_seminar08\dom_zad_54_56_58\obj\Debug\net6.0\ref\dom_zad_54_56_58.dll
