@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\с#_Finish_Project\bin\Debug\net6.0\с#_Finish_Project.exe
+C:\Users\Пользователь\Desktop\с#_Finish_Project\bin\Debug\net6.0\с#_Finish_Project.deps.json
+C:\Users\Пользователь\Desktop\с#_Finish_Project\bin\Debug\net6.0\с#_Finish_Project.runtimeconfig.json
+C:\Users\Пользователь\Desktop\с#_Finish_Project\bin\Debug\net6.0\с#_Finish_Project.dll
+C:\Users\Пользователь\Desktop\с#_Finish_Project\bin\Debug\net6.0\с#_Finish_Project.pdb
+C:\Users\Пользователь\Desktop\с#_Finish_Project\obj\Debug\net6.0\с#_Finish_Project.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\с#_Finish_Project\obj\Debug\net6.0\с#_Finish_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\с#_Finish_Project\obj\Debug\net6.0\с#_Finish_Project.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\с#_Finish_Project\obj\Debug\net6.0\с#_Finish_Project.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\с#_Finish_Project\obj\Debug\net6.0\с#_Finish_Project.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\с#_Finish_Project\obj\Debug\net6.0\с#_Finish_Project.dll
+C:\Users\Пользователь\Desktop\с#_Finish_Project\obj\Debug\net6.0\refint\с#_Finish_Project.dll
+C:\Users\Пользователь\Desktop\с#_Finish_Project\obj\Debug\net6.0\с#_Finish_Project.pdb
+C:\Users\Пользователь\Desktop\с#_Finish_Project\obj\Debug\net6.0\с#_Finish_Project.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\с#_Finish_Project\obj\Debug\net6.0\ref\с#_Finish_Project.dll
